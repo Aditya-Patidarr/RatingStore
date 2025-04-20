@@ -6,7 +6,7 @@ A full-stack web application that allows users to rate stores, view analytics, a
 
 - **Backend:** Express.js  
 - **Database:** MySQL  
-- **Frontend:** React.js
+- **Frontend:** React.js, Material UI 
 
 ---
 
